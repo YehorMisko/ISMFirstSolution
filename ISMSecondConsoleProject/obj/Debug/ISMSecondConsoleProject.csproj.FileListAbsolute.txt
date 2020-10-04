@@ -1,0 +1,6 @@
+C:\Users\jayde\source\repos\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.exe.config
+C:\Users\jayde\source\repos\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.exe
+C:\Users\jayde\source\repos\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\ISMSecondConsoleProject.pdb
+C:\Users\jayde\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\jayde\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.exe
+C:\Users\jayde\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\ISMSecondConsoleProject.pdb
